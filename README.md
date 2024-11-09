@@ -4,8 +4,9 @@
 <br>
   <div align="center">
     <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logoColor=white&logo=python&color=61DAFB" alt="Python" />
+</div>
 
-# Közmű APPLICATION v2
+# Közmű APPLICATION v2 - HUN
 
 Egy Python-alapú, grafikus felületet biztosító program a közműdiktálások kezelésére. A program tkinter könyvtárat használ a vizuális megjelenítéshez, és minden diktálási adatot egy CSV fájlban tárol.
 
@@ -31,7 +32,7 @@ Készíts egy jól működő programot vizuális megjelenítéssel python nyelve
 
 - 4. Beviteli mezők törlése: Sikeres mentés után a beviteli mezők kiürülnek, hogy új adatokat lehessen megadni.
 
-**Running the Project**
+**Projekt futtatésa**
 
 ```bash
 python main.py
